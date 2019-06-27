@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumUnitSmokeTests", "SeleniumUnitSmokeTests\SeleniumUnitSmokeTests.csproj", "{EBCF9457-A097-4DBE-9535-13213144940E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCF9457-A097-4DBE-9535-13213144940E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCF9457-A097-4DBE-9535-13213144940E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCF9457-A097-4DBE-9535-13213144940E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCF9457-A097-4DBE-9535-13213144940E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33C961C-BDE5-4550-A7DA-C8C1841286AD}
+	EndGlobalSection
+EndGlobal
